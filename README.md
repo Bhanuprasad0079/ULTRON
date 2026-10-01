@@ -60,15 +60,15 @@ The RVC model is kept alive through a persistent daemon so the voice-conversion 
 ### Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/boot.png" width="900">
+  <img src="assets/video/boot.png" width="900">
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/online.png" width="900">
+  <img src="assets/video/online.png" width="900">
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/idle.png" width="900">
+  <img src="assets/video/idle.png" width="900">
 </p>
 
 
