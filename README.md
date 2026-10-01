@@ -64,11 +64,10 @@ The RVC model is kept alive through a persistent daemon so the voice-conversion 
 </p>
 
 <p align="center">
-  <img src="assets/video/online.png" width="900">
-</p>
+  <img src="Ultron/frontend/public/assets/video/online.png" width="900">
 
 <p align="center">
-  <img src="assets/video/idle.png" width="900">
+  <img src="Ultron/frontend/public/assets/video/idle.png" width="900">
 </p>
 
 
