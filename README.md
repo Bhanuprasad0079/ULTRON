@@ -60,7 +60,7 @@ The RVC model is kept alive through a persistent daemon so the voice-conversion 
 ### Screenshots
 
 <p align="center">
-  <img src="assets/video/boot.png" width="900">
+      <img src="Ultron/frontend/public/assets/video/boot.png" width="900">
 </p>
 
 <p align="center">
