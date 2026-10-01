@@ -1,0 +1,18 @@
+=== ULTRON RVC CRASH DUMP ===
+
+Error: RVC Exit Code 1
+rvc-cli: error: No usable added index for speaker ID 0. Supply --index or use --index-rate 0.
+
+
+=== FULL TRACEBACK ===
+Traceback (most recent call last):
+  File "D:\Codes\Ultron\backend\infer.py", line 248, in convert_voice
+    raise RuntimeError(f"RVC Exit Code {result.returncode}\n{error_detail}")
+RuntimeError: RVC Exit Code 1
+rvc-cli: error: No usable added index for speaker ID 0. Supply --index or use --index-rate 0.
+
+
+=== STDOUT ===
+
+=== STDERR ===
+rvc-cli: error: No usable added index for speaker ID 0. Supply --index or use --index-rate 0.

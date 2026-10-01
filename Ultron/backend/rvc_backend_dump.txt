@@ -1,0 +1,31 @@
+CMD: C:\python313\python.exe D:\Codes\Ultron\backend\infer.py --input D:\Codes\Ultron\backend\audio_cache\ultron_d30d1554ee3d_base_stretched.mp3 --output D:\Codes\Ultron\backend\audio_cache\ultron_d30d1554ee3d_rvc.wav
+
+=== STDOUT ===
+
+[ULTRON RVC] Starting conversion...
+[ULTRON RVC] Input:   ultron_d30d1554ee3d_base_stretched.mp3
+[ULTRON RVC] Model:   ultron_e200_s15800.pth
+[ULTRON RVC] Output:  ultron_d30d1554ee3d_rvc.wav
+[ULTRON RVC] Pitch:   -5
+[ULTRON RVC] F0:      RMVPE
+[ULTRON RVC] Index:   0.0
+[ULTRON RVC] Protect: 0.33
+Current device: cuda:0 | Inference precision: torch.float16
+Select model: ultron_e200_s15800.pth
+Speaker ID (0-109): 0
+Select index: Not used
+【Single Inference】
+Status：Success
+
+Index：Not used
+Elapsed time：Features 0.26s | F0 2.53s | Synthesis 1.11s
+D:\Codes\Ultron\backend\audio_cache\ultron_d30d1554ee3d_rvc.wav
+
+[ULTRON RVC] Conversion complete!
+
+SUCCESS! Check the output file.
+
+=== STDERR ===
+(empty)
+
+=== EXIT CODE: 0 ===
